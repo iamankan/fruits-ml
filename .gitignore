@@ -1,4 +1,6 @@
-data/*
-newdata/*
-fruit_data/*
+# data/*
+# newdata/*
+# fruit_data/*
+*data/*
 .ipynb_checkpoints/*
+*.hdf5
