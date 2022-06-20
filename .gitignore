@@ -4,3 +4,5 @@
 *data/*
 .ipynb_checkpoints/*
 *.hdf5
+*.h5
+test/*
